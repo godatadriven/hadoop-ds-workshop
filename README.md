@@ -19,7 +19,7 @@ Meaning that you should read this
 	├── 03-Pandas-exercise.ipynb
 	├── 03-Pandas-solution.ipynb
 		Pandas: DIY and enjoy!
-	├──	04-Machine-Learning-example.ipynb
+	├── 04-Machine-Learning-example.ipynb
 		Find your way in solving a simple problem using machine learning and Spark
 	├── example_module.py
 		This is how you create a module in Python
