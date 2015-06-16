@@ -1,11 +1,8 @@
 # hadoop-ds-workshop
-This repository contains the files that are used in the Hadoop Data Science workshop.
+This repository contains the files that are used for the Hadoop Data Science workshop, originated at the GOTO conference, 2015, Amsterdam
 
 ```
 README.md
-├── exploration
-	├── explore.ipynb
-	├── plots.ipynb
 ├── tutorial
 	├── 01-IPython-notebook.ipynb
 		Explore the possibilities of an IPython notebook
@@ -25,4 +22,9 @@ README.md
 		This is how you create a module in Python
 	├── fizzbuzz.csv
 		Small dataset that is used throughout the notebooks
+├── exploration
+	First steps of your humble workshop organizers
+	├── explore.ipynb
+	├── plots.ipynb
+
 ```
